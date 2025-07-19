@@ -3,6 +3,10 @@
  
 Here it's my task number 1 for cyber security internship at Prodigy InfoTech.
 
+# 🚀Overwiew:
+A secret piece of information used in conjunction with an encryption algorithm. Keys can be symmetric (shared) or asymmetric (public/private).
+This tool can help to perform that task easily.
+
 # 📌Features:
  
  🔒 Encrypt,
