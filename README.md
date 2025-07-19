@@ -1,15 +1,14 @@
- 🔑Implement Caesar Cipher- PRODIGY_CS_01
+#  🔑Implement Caesar Cipher- PRODIGY_CS_01
 
  
 Here it's my task number 1 for cyber security internship at Prodigy InfoTech.
 
-📌Features:
-
-
+# 📌Features:
+ 
  🔒 Encrypt,
  🔐 Decrypt the text qucikly
 
- 📚language used:
+# 📚language used:
  
  python
 
